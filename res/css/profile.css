@@ -1,0 +1,61 @@
+
+.profile{ font-family: 'arial'; margin: 30px; }
+.profile .avatar{
+	width: 200px;
+	height: 200px;
+	background-color: #fff;
+	border-radius: 50%;
+}
+
+.profile h1{ padding: 0px; margin: 0px; color: #fff; }
+.profile span{ padding: 0px; margin: 0px; color: #fff; }
+
+.option{
+	text-align: center;font-family: 'arial';
+	color: #fff;
+	margin-bottom: 30px;
+}
+
+.option .icon-cora{
+	width: 50px;
+	height: 50px;
+
+	margin-bottom: 15px;
+	background-image: url('../files/img/cora.png');
+	background-position: center;
+	background-repeat: no-repeat;
+
+	display: flex;
+}
+
+.option .icon-profile{
+	width: 50px;
+	height: 50px;
+
+	background-image: url('../files/img/profile.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	margin-bottom: 15px;
+
+	display: flex;
+}
+
+.option #number{
+	font-size: 35px;
+	margin-bottom: 15px;
+}
+
+
+
+
+.preference{
+	padding: 20px;
+	border-radius: 5px;
+
+	background-color: #fff;
+}
+
+.preference .title{color: #0052A2; }
+.preference .tag{ background-color: #0052A2; color: #fff; }
+
+.preference .tag{ background-color: #0052A2; color: #fff; }
